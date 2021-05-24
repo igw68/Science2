@@ -1,0 +1,11 @@
+# SNCF, meeting 25-09-2020
+- Fini decoupe 3.2 manualement passe en BDD
+  - Separe approche signal en cas pour chaque approche iteneraire
+  - approche iteneraire => SED ouvert
+  - SED ouvert => iteneraire forme
+  - iteneraire forme => toutes iteneraires partant de destination sont fermes
+- [X] faire 1.2 manualement
+- [ ] faire automatiquement
+- [ ] prolongation 
+  - inscription 4eme année
+  - lettre de ecole dectorale
