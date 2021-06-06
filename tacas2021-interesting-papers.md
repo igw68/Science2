@@ -2,5 +2,4 @@
 
 * Directed Reachability for Infinite-State Systems
 * Iterative Bounded Synthesis for Efficient Cycle Detection in Parametric Timed Automata
-  
-#conferences
+#conference

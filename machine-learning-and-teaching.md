@@ -11,7 +11,7 @@ Jerry Zhu
 * Target h*: X->Y
   * h* can be *realizable* when it is in H, but it may also be *agnostic*.
   
-## Passive learning protocol
+## Passive learning protocol (PAC learning)
 * Environment has $P(x,y)$ 
   * P(y|x)=1[y=h*(x)] this is distribution on x that put all weight on h*(x)
 * Environment draws a training set S={(x_1,y_1),\dots,(x_n,y_n)}

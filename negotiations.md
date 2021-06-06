@@ -1,13 +1,15 @@
 # Negotiations
 
-## Learning negotiations
-Learning for many components: [Vaandragen LATA 2021, somebody TACAS 2020]
+[[corto-negotiations]]
 
 [[subject-phd-distributed]]
 
 [[static-analysis-of-negotiations]]
 
+[[negotiations-vs-series-parallel-languages]]
 
+[[workflow-nets]]
 
 #Root
 #distributed
+#negotiations

@@ -2,6 +2,8 @@
 
 There is a log of activities [[log-partial-order-for-real-time]]
 
+The work with Sarah is in [[sarah-parital-order]]
+
 We need examples to show that bounded spread is useful
 
 Ideas:

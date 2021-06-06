@@ -20,4 +20,5 @@ Tu trouveras notre modèle UPPAAL en PJ. Ce modèle a des variables partagées, 
 Voilà donc où nous en sommes. Je souhaite savoir si c’est conforme à ce que tu imaginais d’après cet article, et si passer le modèle en “multicore scheduling” te semble être une bonne idée.
 
 
-
+#partial-order
+#real-time

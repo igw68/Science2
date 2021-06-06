@@ -1,7 +1,6 @@
 # Cardinality Queries over DL-Lite Ontologies
 Quentin Manière
 
-
 * Concepts and roles: S \incl S' or S\incl \bar S'
 * There is quantification over firs argument of a role \exists R
 * ABox: assertions A(a), S(a,b)
