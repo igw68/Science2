@@ -10,7 +10,7 @@ Loic Paulevé
 	The most natural is synchronous, that all the components are taken.
   The other is, fully asynchronous, that only one component,
   nondeterministically chosen.
-	The we can also say that arbitrary number components change (asynchronous)
+	We can also say that arbitrary number components change (asynchronous)
 
 * Interesting properties:
   * reachability

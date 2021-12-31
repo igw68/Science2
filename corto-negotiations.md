@@ -6,6 +6,7 @@
   We should develop theory of these negotiations, and check what problems can be
   verified easily for them.
 
+
 * [[intersection-of-a-negotiation-with-zielonka-automaton]]
   This is rather an exercise but it would be good to know the answer
   
@@ -58,5 +59,15 @@ an automaton without deadlocks?
 
 ## A relation between $Paths(\Nn)$ and $\set{A_p}_{p\in Proc}$.
 This is the original question we have asked Corto.
+
+## Proof of Hugo
+* Does the proof of Hugo imply undecidability of distributed control in Zielonka
+  setting. (my thing with controlling Zielonka automaton by a non-blocking
+  strategy)
+* Does the proof of Hugo show decidability also for the case of automata without
+  M substructure? Maybe some other decidable subcases. 
+  
+## Distributed monitoring
+
 
 #corto

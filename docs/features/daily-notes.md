@@ -25,6 +25,7 @@ You can also write:
 | `/-1m`       | one month ago |
 | `/+1y`       | in one year   |
 
+
 You get the idea ;)
 
 ## Configuration

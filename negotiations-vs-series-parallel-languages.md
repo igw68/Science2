@@ -11,3 +11,4 @@ The example above shows also why series-parallel languages are not determined by
 
 On the other hand every trace is a language  of a negotiation and there are many traces that are not series parallel. 
 
+#negotiations

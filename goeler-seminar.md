@@ -1,4 +1,4 @@
-# goeler seminar
+# goeller seminar
 
 Bisimulation Finiteness of Pushdown systems
 

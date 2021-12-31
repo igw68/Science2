@@ -118,5 +118,14 @@
           "\\sleq" : "\\sqsubseteq",
           "\\act" : "\\stackrel{#1}{\\longrightarrow}",
           "\\Proc" : "\\mathit{Proc}"
-      },       
+      },
+      "spellright.language": [
+        "en"
+      ],
+      "spellright.documentTypes": [
+        "latex",
+        "plaintext",
+        "markdown"
+      ],
+      
 }

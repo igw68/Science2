@@ -30,7 +30,7 @@
 # Armando Solar-Lezama (MIT)
 
 - Helping people to write tricky low-level code turned out to be less helpful
-  than expected (appart from very tricky bit manipulation code)
+  than expected (apart from very tricky bit manipulation code)
 - Where is works is when you target very specific tasks (improvement of existing
   implementations)
 - Reverse engineering: from implementation to high-level description

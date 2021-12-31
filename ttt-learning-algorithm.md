@@ -3,6 +3,7 @@
 
 [ttt-learning-algorithm.pdf][The TTT Algorithm: A Redundancy-Free Approach to Active Automata Learning]
 
+
 [learnlinb.pdf]
 [Isberner, M., Howar, F., Steﬀen, B.: The open-source LearnLib - a framework for
 active automata learning. In: Kroening, D., P˘as˘areanu, C.S. (eds.) CAV 2015.
@@ -30,13 +31,18 @@ It also easy to update the tree when we get a counterexample.
 **Nice step when completing the automaton**
 They treat an example of non-completeness as a counterexample given by the
 teacher and insert it the same way.
+On the second thought this is misleading. This is just a standard operation to reestablish
+closure.
 
 ## Minimizing counterexamples
 There is something about minimizing discriminators. I do not understand this.
 
 ## Complexity
-This is measured in query complexity, symbol complexity **?**, and space
-complexity
+This is measured in query complexity, and space complexity
+Query complexity is $O(n)$, $O(kn^2+n\log(m))$. 
+Space complexity is $O(kn)$ as they require at most one test for every
+transition. Since they store everything in a tree, the size of the tree is
+linear in the size number of tests. 
 
 ## Experiments
 They run the experiments on concurrent processes as examples 

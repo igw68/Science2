@@ -3,6 +3,7 @@ type: feature
 keywords: hello world
 ---
 
+
 # Note Properties
 
 At the top of the file you can have a section where you define your properties.

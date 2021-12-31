@@ -1,5 +1,7 @@
 # Leafy Automata 5 Oct 2020
 
+
+
 - [ ] Is there some part of the automaton that can be deterministic?
 - [ ] Understand more complicated restrictions.
   - Rzad parzystych jest ograniczony: wypuszcza tylko ograniczona liczba dzieci w calej historii

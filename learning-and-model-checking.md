@@ -5,6 +5,12 @@
 Chanson, S.T., Gao, Q. (eds.) Proc. FORTE ’99. pp. 225–240. Kluwer Academic
 (1999)]
 
+A paper on using learning to do parametric verification
+[learning-parametric-verification.pdf]
+"Learning to Prove Safety over Parameterised Concurrent Systems", Anthony W. Lin
+It has a list with references to many examles. 
+
+
 [Chow-TSE87]
 
 To see how learning is used in MC I have looked at "Adaptive Model Checking "
@@ -15,3 +21,4 @@ To see how learning is used in MC I have looked at "Adaptive Model Checking "
 	*	For VC procedure the parameter is the number of states. We may think the same for negotiations assuming that we know distribution of actions over processes. 
 	* The idea of VC is quite simple. We use a spanning tree T of a model M to have access paths to every state of M. From there we play a sequence of length n-m so that we are sure to access every state of B (it looks that T gives also a spanning tree of B). Then we verify that every state of B has the same signature as a state of M, and that after one step the results also have the same signatures. 
 
+#learning

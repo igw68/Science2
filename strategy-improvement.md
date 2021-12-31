@@ -2,6 +2,8 @@
 
 ## Nice idea of acceleration on progress measure. 
 Antonio travail avec Pierre 
+[antonio-cav21.pdf]
+
 
 ![picture 1](images/6365b0e49e317c1d8287a59405d225d3e8c866c3eb2ed00cd4b08f6a878f9de8.png)  
 

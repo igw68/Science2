@@ -30,7 +30,7 @@ Finally, for learning, the complexity depends, in most cases, at least
 The goal of the thesis is to find algorithms for synthesis, control, monitoring,
  and learning distributed systems. We adopt a language-theoretic approach taking
  Zielonka automata as the basic model of distributed systems. Such an automaton
- is a parallel composition of ﬁnite automata synchronizing on common actions.
+ is a parallel composition of finite automata synchronizing on common actions.
  The model is very general and close to 1-safe Petri nets, but with more structure. 
  The theory of Zielonka automata is quite rich. The questions mentioned above
  have already been considered for this model, but their general decidability remains

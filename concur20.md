@@ -12,7 +12,7 @@ Interesting talks
 * Reaching Your Goal Optimally by Playing at Random with No Memory 8A, 14:45 Wed
 
 * Determinisability of One-Clock Timed Automata: Clemente, Lasota, Piorkowski
-  * They consider when a nondeterministic TA can be made deterministi
+  * They consider when a nondeterministic TA can be made deterministic
     * It is in general undecidable, unless one fixes the number of clocks in the
       resulting DA.
     * For decidability they use automata with atoms

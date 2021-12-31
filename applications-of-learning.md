@@ -1,5 +1,13 @@
 # applications-of-learning
 
+
+[benchmarks-learningDFA.pdf]
+Lists s some applications of learning
+
+A rather big application is in 
+[learning-heuristics-for-equivalence-test.pdf]
+There they also discuss how to implement Teacher
+
 [[seminar-applications-of-learning]]
 
 A seminar of Silva on her 2021 paper: [[model-learning]]
@@ -21,12 +29,15 @@ Restart and Approximate Learning. In: Proc. OOPSLA’13. pp. 623–640. ACM, New
 York, NY, USA (2013), http://doi.acm.org/10.1145/2509136.2509552
 
 [learning-safety.pdf] Learning for solving safetey games, TACAS2017
+[[learning-safety-games]]
 
 Learning for synthesis [Madhusudan, Loding] [learning-for-synthesis.pdf]
 
+Learning for regular model-checking
+
 ## Older
 
-Model driven test generation: [Hagerer, A., Hungar, H., Niese, O., Steﬀen, B.:
+Model driven test generation: [Hagerer, A., Hungar, H., Niese, O., Steffen, B.:
 Model generation by moderated regular extrapolation. In: FASE. pp. 80–95. LNCS,
 Springer (2002)]
 
@@ -48,3 +59,4 @@ mining APIs [ABL02], supporting model-based testing [HHNS02,WBDP10] and conforma
 Isberner, M., Howar, F., Steﬀen, B.: The open-source LearnLib - a framework for active automata learning. In: Kroening, D., P˘as˘areanu, C.S. (eds.) CAV 2015. LNCS, vol. 9206, pp. 487–495. Springer, Cham (2015). https:// doi.org/10.1007/978-3-319-21690-4 32
 
 
+#learning

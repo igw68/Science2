@@ -9,20 +9,22 @@
 * [[angluin-learning]]
 * [[ttt-learning-algorithm]]
 * [[other-learning-algorithms]]
+* PAC learning finite automata is impossible [[pac-learning-finite-automata]]
 
 ## Extensions
 * [[learning-nfa]]
 * [[learning-series-parallel-pomsets]]
-* [[never-stop-learning]]
+* [[learning-mscs]]
 * [[calf-project.org]] Different algebraic learning
 * [[learning-timed-automata]] 
 * [[learning-with-implicaitons]]
 * [[synthesis for network programs]]
-* Mc Clurg Syncrhonization Synthesis for Network Programs
 
-  
+
+## Applications
+- A recent set of examples of applications is in [benchmarks-learningDFA.pdf]  (paper from 2019). 
 ## Some variations
-* [[Never stop learning]]
+* [[never-stop-learning]]
 
 ## Some directions
 * [[learning-automata-with-diamonds]]
@@ -31,6 +33,7 @@
 
 
 # Black box learning
+[[black-box-is-hard]]
 [[black-box-learning]]
 
 #learning

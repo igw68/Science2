@@ -33,7 +33,16 @@ Key ideas:
 Execution graphs: are used to represent the set of executions (in weak memory
 model)
 
-> > [PLDI'19, NETSYS'21] papers
+>> [NETSYS'21] paper
+>> vefaiadis-netys2021-barriers.pdf]
+>> Q: can barrier be emulated with asynchronous automata so a new method is not
+>> needed. The idea is that the order in which processes reach the barrier is
+>> not needed. 
+
+
+> [Model checking for weakly consistent libraries. PLDI 2019: 96-110]
+> [vafeladis-19.pdf]
+Presents GenMC model-checker
 
 He claims that for him it would be enough to use $n^2$ memory and not $2^n$
 memory.
@@ -41,3 +50,5 @@ memory.
 Another idea is to bound the wastful explorations by some polynomial.
 
 #seminar May 2021
+#distributed
+#partial-order

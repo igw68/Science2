@@ -1,7 +1,7 @@
 # Chromatic-memory-Antonio2021
 
 These are notes on Antonio's paper "Minimizing Rabin and Chromatic memory"
-#antonio
+#Antonio
 
 # Basic definitions
 
