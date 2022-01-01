@@ -18,13 +18,12 @@ You can also write:
 | ------------ | ------------- |
 | `/tomorrow`  | tomorrow      |
 | `/yesterday` | yesterday     |
-| `/monday`    | next monday   |
+| `/monday`    | next Monday   |
 | `/+1d`       | tomorrow      |
 | `/-3d`       | 3 days ago    |
 | `/+1w`       | in a week     |
 | `/-1m`       | one month ago |
 | `/+1y`       | in one year   |
-
 
 You get the idea ;)
 
@@ -40,4 +39,3 @@ The following properties can be used:
 ```
 
 The above configuration would create a file `journal/daily-note-2020-07-25.mdx`, with the heading `Journal Entry, Sunday, July 25`.
-
