@@ -32,7 +32,7 @@
   "command-runner.terminal.autoClear": true,
   "command-runner.terminal.autoFocus": true,
   "command-runner.commands": {
-      "open PDF" : "open \"/Users/igw/Library/Mobile Documents/com~apple~CloudDocs/Papers/${selectedText}\"" ,
+      "open PDF" : "open \"/Users/igw/Papers/${selectedText}\"" ,
       "echo workspaceFolder": "echo ${workspaceFolder}",
         "echo file": "echo ${file}"},
   "mdmath.macros": {  

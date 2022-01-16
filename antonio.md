@@ -1,5 +1,10 @@
 # Antonio
 
+# 2022-01-04
+Minimization of deterministic generalized Buchi automata with conditions on
+transitions.
+[[determinizing-buchi-automata]]
+
 # 2021-11-25
 Learning problem
 - We can think of deterministic parity or deterministic Buchi automata
@@ -41,6 +46,12 @@ Learning problem
   - [ ] Maybe better to try generalized Buchi as they may be better behaved. In
     particular they may behave better wrt to the Wagner hierarchy. Idea to look
     at the Wagner hierarchy inside Buch may be really interesting. 
+- [ ] On the fly algorithm for safety (decide if a position is winning without
+  looking at the whole graph)
+  - [ ] There is a literature on [dynamic connectivity] for graphs (wikipedia).
+    The task is to keep SCC decomposition while adding or removing edges.
+  - Exploration of a graph can be seen as a sort of inserting edges. For
+    inserting edges the dynamic connectivity  algorithms are very efficient.
 
 # Antonions list of problems [2021-23-08]
 -Rédiger ce qu'on a fait en Juin avec Karoliina et Thomas (+preuve de Marthe, séparation de Rabin et Street par parité...). Continuer ce travail (mémoire pour les conditions w-réguliers avec ACD, meilleur automate de Rabin GFG qui simule un automate de Muller, etc...)

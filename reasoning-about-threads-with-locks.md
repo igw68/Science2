@@ -1,7 +1,7 @@
 # Reasoning about threads with locks
 
 [kahlon2005_reasoningAboutLocks.pdf]
-#distribute
+#distributed
 They say that nested locks is a commonly occurring case.
 In certain programming languages like Java and C# locks are syntactically
 guaranteed to be nested.

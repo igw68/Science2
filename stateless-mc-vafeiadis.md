@@ -47,7 +47,7 @@ Presents GenMC model-checker
 He claims that for him it would be enough to use $n^2$ memory and not $2^n$
 memory.
 
-Another idea is to bound the wastful explorations by some polynomial.
+Another idea is to bound the wasteful explorations by some polynomial.
 
 #seminar May 2021
 #distributed

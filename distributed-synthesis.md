@@ -1,12 +1,23 @@
 # Distributed synthesis
 
+## 2022-01-05
+
+
+## 2022-01-03
+  Remarks after reading Corto's note:
+  - Decide if we want green arrow only when there is no red arrow.
+  - We really need to look at the case when more than one token action is
+    possible from a given state. 
+  - Two processes per token can be done easier by simply taking care of the
+    unique token that is shared by 3 processes in the previous example. 
 ## 2021-12-26
 There may be two more decidable cases:
-- stack discipline on getting and releasing tokens
 - when one token is released, all are. So we have one release operation that
   releases all the token that the process has. 
   There is good chance that even with one token per pair of processes synthesis
   is undecidable. 
+- stack discipline on getting and releasing tokens (the all release case is a
+  special case of this).
 **Synthesis for wait-free systems**
   There is something about not being able to synthesize when you can have very
   good control of what happens in a system. But this is not what realistic

@@ -2,6 +2,7 @@
 
 #seminar 2021-12-09
 Benedikt Bollig
+[bollig-dynamic-links.pdf]
 
 GANDALF paper 2020
 Pnueli Rosner: with idea that processes send their input to other processes
@@ -23,7 +24,7 @@ They have positional strategies
 The only interesting case is when either both processes get full information or
 only 1st process gets information. The point is that when the communication link
 changes direction, both processes know everything
-§
+
 ## Further work
 - n process and delay d (process sees the history of other with delay d)
 - if there is a bound on the delay when you get the view then maybe it is

@@ -8,6 +8,8 @@ date: [[2021-06-09]]
   Optimal dynamic partial order reduction. In POPL 2014. ACM, New York, NY, USA,
   373ś384. https://doi.org/10.1145/2535838. 2535845, And the JACM final version
 
+* Vafeiadis, POPL'2022 TRust [vafeiadis-popl22.pdf]
+
 * Kokologiannakis, M., Raad, A., Vafeiadis, V.: Effective lock handling in
   stateless model checking. Proc. ACM Program. Lang. 3(OOPSLA) (2019) doi:
   10.1145/ 3360599 
@@ -26,6 +28,10 @@ date: [[2021-06-09]]
 * BAM: Effcient Model Checking for Barriers, Vafeiadis, V, NETSYS'21
   [[por-and-barriers]]
   [vefaiadis-netys2021-barriers.pdf]
+
+## POR and symmetry reduciton
+- Emerson, Jha, Peled, 1997 Combining Partial Order and Symmetry Reductions, 
+  [emerson1997_Chapter_CombiningPartialOrderAndSymmet.pdf]
 
 ## Others
 * David Baelde, Stéphanie Delaune, and Lucca Hirschi. POR for security protocol equivalences – beyond action-determinism.

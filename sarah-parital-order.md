@@ -1,5 +1,11 @@
 # Sarah Parital-order
 
+- 2022-01-04 Multiple variables
+  - To deal with multiple variables it may be better to use execution graphs of
+    Vafeiadis than traces [vafeiadis-popl22.pdf]. Figure 4 shows that we can
+    have 4 graphs and 12 interleavings. What we do with one variable is cheap
+    way of simulating read from pointers. 
+
 - 2021-11-23 RR-por
   - This POR is almost like glueing local actions after R/W. The problem with
     glueing explicitly is that it can produce exponentially many "glued paths". 

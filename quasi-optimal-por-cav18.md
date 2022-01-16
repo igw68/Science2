@@ -2,8 +2,23 @@
 [[2021-06-16]]
 “Quasi-optimal POR”, CAV’18
 [quasi-optimal-cav18.pdf]
+[petrucci-quasi-optimal-fmsd20.pdf]
+
+# Discussion
+- Extension to parametric cases of our partial-order
 
 
+# Questions to discuss 2022-01-06
+1. PSPACE hardness for finding alternative (their NP result is in the size of
+   the whole state space, not description of the PN)
+2. Difference between interleaving and unfolding based methods.
+   1. Thomas Chatain
+3. Have an algorithm that is linear in space and time wrt to the result.
+4. Does it make sense to do POR on transition systems and not stateless model-checking
+5. Examples for POR, Examples of Petri Nets
+6. Candidates for MF position
+
+# Notes
 She introduces a notion of alternative: taking alternative does not lead to  a sleep set. 
 	* The notion of alternative comes from Kroening et al paper from 2015
   * She shows that finding an alternative is NP-complete but in the size of the

@@ -15,6 +15,12 @@ Log is in [[sarah-parital-order]]
   some transitions to be urgent: if time can pass in two consecutive transitions
   then maybe we can let it pass in the first and make the second 0-time. 
   This should give as good gains on some examples. 
+- Adding symmetry reduction
+  The relevant work is [[symmetry-and-partial-order]]. 
+  We need to see does it apply to Fisher to give linear state space.
+  The challenge is that in that paper they talk about abstract group of
+  symmetries and is it not clear if we can have one for the reduction we are
+  thinking of. 
 
 # TODO
 - [X] Read and tell us about the article of Larsen from Formats'21
