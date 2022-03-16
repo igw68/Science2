@@ -1,5 +1,7 @@
 # applications-of-learning
 
+[leucker-leargning-survey.pdf] apparently there are some applications there
+(from 2007)
 
 [benchmarks-learningDFA.pdf]
 Lists s some applications of learning
@@ -9,6 +11,12 @@ A rather big application is in
 There they also discuss how to implement Teacher
 
 [[seminar-applications-of-learning]]
+
+Application of learning to verification of recurrent neural networks. 
+Finkel's paper. Not looked inside
+[learning-and-neural-networks.pdf]
+It would be nice if negotiations were better model to learn than finite automata
+in this context.
 
 A seminar of Silva on her 2021 paper: [[model-learning]]
 

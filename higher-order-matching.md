@@ -9,6 +9,34 @@
 
 Nice simple approach of Parys [[a-reduction-approach-to-homc]]
 
+# TODO
+Spisac notatke z Dagstuh z prosta definicja automatu. Z \theta alternacja
+Napisac dowod nierozstrzygalnosci tych automatow. 2 liczniki. Uzyc alternacji
+aby przekazac stan tak wiec nie automat bedzie monotoniczny.
+Zobaczyc gdzie jest miejsce na rozstrzygalnosc.
+Jaka jest zlozonosc dla przypadku z 1 atomem?
+
+
+# 2022-03-15
+Zrobic przypadek atomowy przy pomocy automatow.
+Podprzypadek jest czy typ jest zamieszkaly w teorii intuicjonistycznej
+(wystarczy 1 zmienna kazdego typu).
+Padovani potrzebuje tylko 2 atomow, ale w profilach wystarczy uzywac 1 stalej,
+bo mozemy zalozyc, ze po prawej stronie mamy zawsze ten sam atom.
+
+# 2022-03-02
+
+# 2022-02-16
+Harmer nie przechodzi przez automaty bo zapomnielismy o y na samej gorze.
+Pytanie: Czy mozna zrobic Padovaniego przez automaty.
+Wyglada na to, ze Harmer przechodzi uzywajac argumentu Padovaniego.
+Czy mozna udowodnic Hamera automatami?
+
+# 2022-01-24
+Monotonicity probably gives decidability for Stirling automata of order 5. 
+May it be the case that monotonicity is sufficient condition for decidability?
+A hypothesis is that it does not help for order 6.
+
 ## 2021-12-01
 Comon Jurski []
 

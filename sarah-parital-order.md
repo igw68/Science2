@@ -1,5 +1,26 @@
 # Sarah Parital-order
 
+- 2022-03-04
+  Are trigger->action specifications bounded spread? Trigger and Action talk
+  about bounded intervals. This is a thought after Ocan's talk at TikTak meeting. 
+
+- 2022-03-01
+  - Init duplicate themselves: maybe exponentially many times
+  - ![picture 1](images/5b8cc8649450d94ee8fa158e8d32c5bfef497a9f2c76617e848c9d51a95ad594.png)  
+
+
+- 2022-02-07 
+  - Advanced cuts 
+    Some optimizations
+  - Write complete
+    This is too strong. States are partitioned into 
+  - WCET 
+    Is even worse. What conditions on writes we need for our method to be
+    complete. This is not a read/write system.
+  - Timed cut: this is not yet implemented.
+  - [[dynamic-partial-order]]
+
+
 - 2022-01-04 Multiple variables
   - To deal with multiple variables it may be better to use execution graphs of
     Vafeiadis than traces [vafeiadis-popl22.pdf]. Figure 4 shows that we can

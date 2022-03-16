@@ -17,7 +17,6 @@ Ideas:
 * [[ample-sets]]
 * [[adding-synchronization-actions]]
 * [[stateless-exploration]] 
-* [[por-without-annotations]]
 * POR on 0-time fragment of the graph
 
 [[partial-order-examples]]
@@ -33,10 +32,10 @@ Some other directions
 * Bounded model-checking [[thiagu]]
 * [[timed-unfoldings]]
 
+
 ## Literature
-* A paper FORMATS'21 of Larsen on partial-order and games [Frederik-Meyer-Bonneland-Stubborn-Set.pdf]
-* A paper from ATVA'20 also of Larsen [larsen-atva2020.pdf]
-* Local-semantics [jonsson-partial-real-time.pdf]
+[[por-real-time-literature]]
+
 #real-time
 #partial-order
 #Root

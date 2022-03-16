@@ -29,9 +29,25 @@ date: [[2021-06-09]]
   [[por-and-barriers]]
   [vefaiadis-netys2021-barriers.pdf]
 
+* Bounded Partial-Order Reduction, Coons, Musuvathi, McKinley, OOPSLA’13,
+  [[bouded-dynamic-por]]
+  [bpor-oopsla-2013]
+  Interesting combination of Dynamic POR and bounded number of preemptions. 
+
+* Monotone partial-order reduction [kaholn-cav09.pdf]
+  Defines normal forms for traces and explores only normal forms.
+  
 ## POR and symmetry reduciton
 - Emerson, Jha, Peled, 1997 Combining Partial Order and Symmetry Reductions, 
   [emerson1997_Chapter_CombiningPartialOrderAndSymmet.pdf]
+
+## Stubborn sets
+- Stubborn Set Intuition Explained, [valmari-stubborn-intuition.pdf]
+  A nice paper giving all basic definitions and comparing to persistent sets.
+  [[stubborn-sets]]
+
+- Stop It, and Be Stubborn! [valamri-stubborn.pdf]
+  Interesting restriction to may-terminating systems that simplifies POR method. 
 
 ## Others
 * David Baelde, Stéphanie Delaune, and Lucca Hirschi. POR for security protocol equivalences – beyond action-determinism.

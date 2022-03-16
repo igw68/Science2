@@ -12,7 +12,7 @@ Examples
 * Using properties to get more parallelism and in consequence more reduction.
 * Fischer
 * Mutex
-* 
+* Patterson [[paterson-algorithm]]
 
 #real-time
 #partial-order

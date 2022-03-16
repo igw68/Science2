@@ -1,5 +1,9 @@
 # To read
 
+## learning and recursive neural netwroks
+[learning-and-neural-networks.pdf]
+Maybe our learning negotiations algorithm can be useful in this context.
+
 ## Efﬁcient and Dynamic Algorithms for Alternating B¨uchi Games and Maximal End-Component Decomposition
 [chatterjee-faster-buchi-games.pdf]
 

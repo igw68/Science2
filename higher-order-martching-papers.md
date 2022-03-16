@@ -27,3 +27,6 @@
 - basics about models of lambda-calculus [lambda-models]
 
 - alternating register automata [figuera-alt-register-automata-2012.pdf]
+
+- Lazic-schmitz [lazic-schmitz2015.pdf]
+  Branching VASS and linear logic
