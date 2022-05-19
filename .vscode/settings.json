@@ -15,6 +15,11 @@
   "files.watcherExclude": {
     "**/node_modules": true
   },
+  "workbench.colorCustomizations": {
+    "editor.background": "#263f4c",
+    "activityBar.background": "#80299f",
+    "statusBar.background": "#80299f",
+  },
   "foam.edit.linkReferenceDefinitions": "off",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "fullDate",

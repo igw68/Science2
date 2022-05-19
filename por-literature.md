@@ -49,6 +49,16 @@ date: [[2021-06-09]]
 - Stop It, and Be Stubborn! [valamri-stubborn.pdf]
   Interesting restriction to may-terminating systems that simplifies POR method. 
 
+## Bounded partial-order
+[bpor-oopsla-2013.pdf]
+[Bounded Partial-Order Reduction, Coons, Musuvathi,  McKinley, oopsla'13]
+Preemption bound: a preemption is switching a process even if it has some
+enabled action. 
+They want to explore runs with a fixed number of preemptions.
+They show how to do it while using POR at the same time. 
+This is not obvious as stopping because of preemption can make POR not sound. 
+I do not really understand what they are doing.
+
 ## Others
 * David Baelde, Stéphanie Delaune, and Lucca Hirschi. POR for security protocol equivalences – beyond action-determinism.
   Looks like a different application area. 
@@ -88,7 +98,13 @@ date: [[2021-06-09]]
   Springer, Heidelberg (2018). doi: 10.1007/978-3-319-89963-3 \ 14 
 
 
+## General parallel programming
 
+The Art of Multiprocessor Programming, Maurice Herlihy, and Nir Shavit, Book
+[multiprocessor-programming.pdf]
+
+Java concurrency in Practice, Book, Many authors
+[]
 	#distributed
 #partial-order
 

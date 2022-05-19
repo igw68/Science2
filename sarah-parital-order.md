@@ -1,7 +1,53 @@
 # Sarah Parital-order
 
+
+- 2022-05-03
+  - WRR can give gains only when we have phases of reads followed by writes etc.
+    When every process can do WR and they are all in parallel, we gain nothing
+    because all the reads and writes get mixed.
+  - There is a problem with my short-multi-server as the algorithm can block
+    before exploring everything.
+    
+- 2022-04-12
+  - When WRR may be correct? It is not even for 0-spread systems.
+  
+
+- 2022-03-29
+  In what examples we can have gains with WR, or with global/local?
+  - [ ] Test Fischer after Frederics translation
+  - [ ] Do Ocan models with merging several processes into one.
+  - [ ] Do multi-server as there is no hope otherwise. We need blocking because
+    we are exactly fighting against blocked executions. 
+    But it is almost essential to have branching too. This is important for
+    example when we group some processes together as one. The group has
+    branching. 
+
+- 2022-03-25
+  There is a problem with commutation in a server.
+  ![picture 9](images/a1f9e027c3e0b7d02c41c763dbec4296e88864c016dcc13b290a10d1efd31521.png)  
+
+  - One option is to do better LU to detect that a process does not synchronize
+    with a server before reseting its variable
+  - The other is to have as many independent actions as possible. 
+  - In 0-spread RR may be correct: maybe we need weaker definition of 0-spread
+  We will do transformation of Fisher to client-server with local actions (even
+  taking into consideration WR commutation)
+  We also need  better reduction for global-local, because it does a mess on
+  things like Fischer. Even if only local actions are available in a state, it
+  will start exploring all of them in parallel, because it does not know when a
+  global action can hit (is this true?)
+
+- 2022-03-22
+  There is a problem with subsumption when there are invariants. We do not get
+  commutation of independent actions because invariant makes zone remember the
+  order of actions. 
+  Soulitions: 
+    (i) move invariants to transitions
+    (ii) do smarter subsumption
+    (iii) maybe we should do more clever spread 
+  
 - 2022-03-04
-  Are trigger->action specifications bounded spread? Trigger and Action talk
+  - [ ] Are trigger->action specifications bounded spread? Trigger and Action talk
   about bounded intervals. This is a thought after Ocan's talk at TikTak meeting. 
 
 - 2022-03-01

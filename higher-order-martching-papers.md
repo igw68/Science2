@@ -3,7 +3,8 @@
 * Salvatis paper on Loader and Urzyczyn [salvati-loader-urzyczyn.pdf]
   Read this one if only for the notation. 
 * Stirling's solution to HOM   [stirling-higher-order-matching.pdf]
-* Padovani's solution to atomic HOM [stirling-higher-order-matching.pdf]
+* [stirling-new-higher-order-matching.pdf]
+* Padovani's solution to atomic HOM [stirling-higher-order-matching.pdf] 
 * Pierre Clairambault's rewriting of Padovani [clairablault-jeux.pdf]
 * Schmidt-Schauss on solving HOM with bounded no of variables [schmidt-shauss-hom.pdf]
 * Wierzbicki: k-duplicating is decidable, and non-elementary lower bound 

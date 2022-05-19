@@ -1,5 +1,27 @@
 # Antonio
 
+# 2022-05-16
+Exploring memory needed for reachability conditions: a condition is given by an
+automaton, and Eve wins if she produces a word accepted by the automaton.
+Colors are on edges.
+The idea is that maybe monoid structure of the automaton says something about
+how much memory is needed:
+Examples:
+- $a^n\S^*$ needs no of memory (just do as much $a$'s as you can)
+- $\S^*a^n\S^*$ needs 1 bit, one to reach a place where $a^n$ is possible and
+  one to follow $a^n$ path.
+- $abc\S^n$ needs 3 places of memory to remember what to do next.
+
+# 2022-04-29
+
+# 2022-03-22
+They have a characterization of winning conditions definable by Buchi automata that give
+half-positional strategies in all arenas (not only finite arenas).
+Now they wander about co-Buchi. 
+A conjecture is that these are those definable by monotone automata: there is
+order on states, transition function for every letter is monotone, except for
+red transitions that should go to state $0$.
+
 # 2022-01-04
 Minimization of deterministic generalized Buchi automata with conditions on
 transitions.

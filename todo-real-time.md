@@ -1,5 +1,10 @@
 # TODO real-time
 
+## After Govind's defence
+- Test how eliminating invariants influences the performance for checking
+  reachability. 
+- Is bounded spread decidable. What is the complexity?
+
 ## Journal CONCOUR'20 paper:
 - invariants
 - efficient inclusion test

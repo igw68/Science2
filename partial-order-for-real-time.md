@@ -19,7 +19,7 @@ Ideas:
 * [[stateless-exploration]] 
 * POR on 0-time fragment of the graph
 
-[[partial-order-examples]]
+* [[partial-order-examples]]
 
 * [[sarah-parital-order]]
 

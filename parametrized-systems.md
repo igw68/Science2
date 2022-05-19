@@ -18,7 +18,7 @@ Majumdar, Zetsche [majumdar-parametrized-tacas21.pdf]
 It may be that their model can be encoded in our model
 
 ## Literature
-- An overview of different modesl [veith-parametric-book.pdf]
+- An overview of different models [veith-parametric-book.pdf]
 - German Sistla paper on parametric model [german-many-processes.pdf] [[german-sistla]]
 - Hagues paper on parametric model with pushdowns [hague-fsttcs11-long.pdf]
 - A paper on using learning to do parametric verification [learning-parametric-verification.pdf]

@@ -16,6 +16,39 @@ aby przekazac stan tak wiec nie automat bedzie monotoniczny.
 Zobaczyc gdzie jest miejsce na rozstrzygalnosc.
 Jaka jest zlozonosc dla przypadku z 1 atomem?
 
+# 2022-04-11
+Jesli bysmy chcieli robic Joly nierozstrzygalnosc na automatach to trzeba isc do
+dosyc wysokich typow. 
+
+Saturacja: 
+Zlozenie rownolegle wymaga produktu (aby zrobic interleaving)
+Byc moze tlumaczenie Algola na automaty moze byc liniowe.
+Chcemy miec model ktory autmatycznie generuje ciagi ktore spelniaja saturacje.
+Mamy tez nadzieje ze tlumaczenie z automatow do Algola bedzie prostrze
+[Plik z overleaf]
+
+
+
+
+
+# 2022-03-28
+Andrzej czytal Joly. Ale jego dowody maja dziury.
+Model monotoniczny nad 1-nym elementem moze miec definiowalnosc
+nierozstrzygalna.
+Jego podejscie jest wykrywanie czy term jest napompowany. 
+To robi przez danie specjalnych argumentow termowi.
+Zapropragowac OK przy pomocy automatow.
+
+# 2022-03-21
+Definiowalnosc na modelami z 2 elementami
+Nierozstrzygalnosc gdy jest ustalony typ ale zmienia sie ilosc elementow w modelu
+Nierozstrzygalnosc gdy model jest ustalony ale zmienia sie typy.
+Typ L : ((o->o)->o) -> (o->o->o)->o ->o
+
+Game semantics on one slide
+
+![picture 8](images/2d37f695c2f647d8c8697ff6b7a9c43b1b775b466801a50f3ccf7467598a1c10.png)  
+
 
 # 2022-03-15
 Zrobic przypadek atomowy przy pomocy automatow.

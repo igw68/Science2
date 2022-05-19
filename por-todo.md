@@ -1,8 +1,23 @@
 # POR todo
 
+- [ ] Subsumption should not be a big problem for DPOR. The subsuming state has
+  more behaviors.
+- [ ] Blocking is more serious problem for DPOR. Not clear how to adapt it.
+
+- [ ] There is a serious problem with branching systems. POR is a very unstable
+  wrt. to order of exploration
+
+![picture 3](images/3953a45ec97a1ae7ddd0fb2c76dd02fe1eed2f9887c08691ff033b3c6afc3974.png)  
+
+There is a small exploration graph
+![picture 4](images/5cf3c403dbe6b62f9b6a013d5bb7a82f4d5873a55fb688ea8632e0216287c908.png)  
+
+But there is also a big one
+![picture 5](images/e98f3921936298341c0557de1c33d8110432dece1ed2258e603059c9fba91808.png)  
+
 - [ ] Abdulla for systems with shared variables (stateless). 
-  - [ ] Write a simple algorithm
-  - [ ] Maybe there is an algorithm that requires very little memory
+  - [X] Write a simple algorithm
+  - [X] Maybe there is an algorithm that requires very little memory
 - [ ] POR is useless for shared variables when we store states (if we do not
   have local actions)
 - [ ] POR for two player games. How to reduce a game to a smaller game with the

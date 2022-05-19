@@ -12,6 +12,9 @@ Workflow net is *sound* if
 * it does not have dead transitions, and 
 * from every marking  M reachable from {p_in}, the marking {p_out} is reachable from $M$.
 
+Checking soundness of negotiation has only been solved at LICS22
+[sound-workflow-nets-lics22]. They show that basically it is EXPSAPCE-complete.
+
 The following two results say that sound deterministic negotiations are
 essentially sound free-choice WF.
 

@@ -29,6 +29,17 @@ Condition: for all $\s\in G\times H$  $s\act{a} s'$ iff
 $\s(s)\act{\s(a)}\s(s')$.
 *Lemma:* Collapse by symmetry preserves independence.
 
+## Reduced system
+
+Do normal exploration with subsumption: add a successor only if no equivalent
+state has been seen before. Otherwise add $\sim$ edge to the equivalent state.
+
+**Thm** 
+State $s$ is reachable from $s_0$ in $\Ss$ iff there is some $s'\sim s$
+that is reachable from $s_0$ in $\Ss/\Hh$.
+
+Proof: normal chasing of a path reaching $s$ keeping accumulated homorphism at hand.
+
 ## Questions
 How would a relevant group of symmetries look for Fisher?
 How to find a group of symmetries when we have a number of identical processes?
